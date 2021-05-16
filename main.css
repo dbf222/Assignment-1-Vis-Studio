@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+
+  font-size: 10pt;
+
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+  color: black;
+
+  line-height: 14pt;
+
+padding:.5%;
+
+text-align: center;
+
+background-color: blue;
+
+
+}
+
+
+h1, h2, h3{
+
+  font:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+  font-weight: bold;
+
+  line-height: 20pt;
+color: RED;
+}
+
+p, ul{
+  color:red
+}
+
+
+
+
+
+footer {
+
+  font-size: 9pt;
+
+  font-style: italic;
+
+  line-height: 12pt;
+
+  text-align: center;
+
+  padding-top: 30pt;
+
+}
